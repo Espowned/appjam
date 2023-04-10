@@ -1,11 +1,8 @@
 # appjamakademi
 
-A new Flutter module project.
+Appjam
 
-## Getting Started
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
+Merhaba, Proje dosya boyutu çok yüksekti ve kısıtlı zaman olduğu için build dosyalarını yükleyemedim. Build dosyaları ve tüm dosyalar bu zip dosyası içerisinde.
 
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+https://www.dosya.tc/server42/7muugj/appjamakademi.zip.html
